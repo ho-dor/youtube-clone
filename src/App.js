@@ -32,7 +32,7 @@ export default () => {
             params: {
                 part: "snippet",
                 maxResults: 5,
-                key: 'AIzaSyDtCu3t69TUAs1BG6lghfS8kPWHMUKthAI',
+                key: YOUR_API_KEY,
                 q: searchTerm,
             }
         });
